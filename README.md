@@ -4,7 +4,6 @@
 
 **Software Engineer — Full-Stack Development & Applied ML**
 
-[![Email](https://img.shields.io/badge/Email-nikhar.asthana.work%40gmail.com-informational?style=flat-square&logo=gmail&logoColor=white)](mailto:nikhar.asthana.work@gmail.com)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Full--Stack%20%2F%20ML--adjacent%20Roles-success?style=flat-square)
 
 </div>
