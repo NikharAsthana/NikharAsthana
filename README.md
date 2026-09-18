@@ -64,5 +64,5 @@ I build full-stack web applications end-to-end — from database schema to deplo
 ---
 
 <div align="center">
-<sub>Reach out via the email badge above.</sub>
+<sub>Reach out via the linkedin badge above.</sub>
 </div>
