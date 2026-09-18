@@ -63,17 +63,6 @@ I build full-stack web applications end-to-end — from database schema to deplo
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikharAsthana&layout=compact&theme=default&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=NikharAsthana&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-</div>
-
----
-
 <div align="center">
 <sub>Reach out via the email badge above.</sub>
 </div>
