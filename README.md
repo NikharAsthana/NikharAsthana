@@ -4,7 +4,7 @@
 
 **Software Engineer — Full-Stack Development & Applied ML**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhar%20Asthana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhar-asthana-b56a7122b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhar-asthana-b56a7122b/)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Full--Stack%20%2F%20ML--adjacent%20Roles-success?style=flat-square)
 
 </div>
