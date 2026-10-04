@@ -52,17 +52,6 @@ I build full-stack web applications end-to-end — from database schema to deplo
 
 ---
 
-## Selected Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[Cairn](https://github.com/NikharAsthana/cairn-task-management-tool)** | Full-stack task manager with a Kanban board, JWT + Google OAuth, guest login, and a typed API client generated from the backend's OpenAPI schema. | Next.js · NestJS · PostgreSQL · Prisma |
-| **[PageAudit](https://github.com/NikharAsthana/PageAudit)** | Audits any URL for SEO/quality signals — status, load time, missing alt text, meta tags — via a server-side crawler with typed error handling. | React · Node.js · Express · Cheerio |
-| **[Hate Speech Detection](https://github.com/NikharAsthana/Cross-Format-Hate-Speech-Detection-BERT)** | BERT-based classifier for hate/offensive speech (87.2% accuracy, 86.7% F1), with a Flask app for real-time text and transcribed audio/video input. | Python · BERT · Flask |
-| **[Adversarial Robustness (MNIST)](https://github.com/NikharAsthana/Adversarial-Attack-and-Defense-MNIST)** | CNN classifier (98.65% clean accuracy) stress-tested with FGSM/PGD attacks, then hardened via adversarial training. | Python · PyTorch |
-
----
-
 <div align="center">
 <sub>Reach out via the linkedin badge above.</sub>
 </div>
